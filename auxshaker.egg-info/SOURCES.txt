@@ -1,0 +1,9 @@
+README.md
+setup.py
+auxshaker/__init__.py
+auxshaker/bigbear.py
+auxshaker/serial.py
+auxshaker.egg-info/PKG-INFO
+auxshaker.egg-info/SOURCES.txt
+auxshaker.egg-info/dependency_links.txt
+auxshaker.egg-info/top_level.txt
