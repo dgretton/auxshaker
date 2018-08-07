@@ -1,7 +1,9 @@
+MANIFEST.in
 README.md
 setup.py
 auxshaker/__init__.py
 auxshaker/bigbear.py
+auxshaker/config.json
 auxshaker/serial.py
 auxshaker.egg-info/PKG-INFO
 auxshaker.egg-info/SOURCES.txt
